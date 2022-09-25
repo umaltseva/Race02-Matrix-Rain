@@ -2,11 +2,11 @@
 
 Our team's solution for Race 02.
 
-Made with [Dasha Katsay](https://github.com/dkatsay) and [Herasymenko Bogdan](https://github.com/herasymenkobogdan).
+Made with [Daria Katsai](https://github.com/DarunkaKa) and [Herasymenko Bogdan](https://github.com/herasymenkobogdan).
 
 ### DESCRIPTION
 
-Create a program that simulates the screensaver fromThe Matrix.The program must show text running from top to bottom of theTerminal. It must scrollthrough all the lines with the same speed.
+Create a program that simulates the screensaver from The Matrix.The program must show text running from top to bottom of theTerminal. It must scroll through all the lines with the same speed.
 
 ### OUR OUTPUT
 
